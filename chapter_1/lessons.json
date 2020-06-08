@@ -1,5 +1,7 @@
 [
-  { "block": "Bài I: Tổng quan về bTaskee" },
+  {
+    "block": "Bài I: Tổng quan về bTaskee"
+  },
   {
     "id": "0",
     "type": "LESSON",
@@ -35,7 +37,9 @@
     "time": 10,
     "link": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/lesson_4.json"
   },
-  { "block": "Bài II: KỸ NĂNG LÀM VIỆC" },
+  {
+    "block": "Bài II: KỸ NĂNG LÀM VIỆC"
+  },
   {
     "id": "5",
     "type": "LESSON",
@@ -85,8 +89,9 @@
     "time": 4,
     "link": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/lesson_6.json"
   },
-  { "block": "BÀI KIỂM TRA KỸ NĂNG XỬ LÝ TÌNH HUỐNG" },
-
+  {
+    "block": "BÀI KIỂM TRA KỸ NĂNG XỬ LÝ TÌNH HUỐNG"
+  },
   {
     "id": "0",
     "type": "QUIZZ",
@@ -95,5 +100,4 @@
     "numberOfQuestions": 5,
     "link": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/quizz_0.json"
   }
-
 ]
