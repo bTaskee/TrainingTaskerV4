@@ -45,57 +45,102 @@
     "type": "LESSON",
     "title": "Quy tắc vệ sinh nhà cửa chung",
     "time": 4,
-    "link": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/lesson_3.json"
+    "link": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/lesson_5.json"
   },
   {
     "id": "6",
+    "type": "QUIZZ",
+    "title": "Bài kiểm tra vệ sinh nhà cửa",
+    "time": 10,
+    "numberOfQuestions": 5,
+    "link": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/quizz_0.json"
+  },
+  {
+    "id": "7",
     "type": "LESSON",
     "title": "Dụng cụ dọn dẹp",
     "time": 4,
     "link": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/lesson_4.json"
   },
   {
-    "id": "7",
+    "id": "8",
+    "type": "QUIZZ",
+    "title": "Bài kiểm tra dụng cụ dọn dẹp",
+    "time": 10,
+    "numberOfQuestions": 5,
+    "link": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/quizz_0.json"
+  },
+  {
+    "id": "9",
     "type": "LESSON",
     "title": "Cách sử dụng chất tẩy rửa",
     "time": 4,
     "link": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/lesson_5.json"
   },
   {
-    "id": "6",
+    "id": "10",
+    "type": "QUIZZ",
+    "title": "Bài kiểm tra cách sử dụng hóa chất",
+    "time": 10,
+    "numberOfQuestions": 5,
+    "link": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/quizz_0.json"
+  },
+  {
+    "id": "11",
     "type": "LESSON",
     "title": "Dọn nhà bếp",
     "time": 4,
     "link": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/lesson_6.json"
   },
   {
-    "id": "7",
+    "id": "12",
+    "type": "QUIZZ",
+    "title": "Bài kiểm tra dọn dẹp bếp",
+    "time": 10,
+    "numberOfQuestions": 5,
+    "link": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/quizz_0.json"
+  },
+  {
+    "id": "13",
     "type": "LESSON",
     "title": "Dọn phòng ngủ",
     "time": 4,
     "link": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/lesson_6.json"
   },
   {
-    "id": "8",
+    "id": "14",
+    "type": "QUIZZ",
+    "title": "Bài kiểm tra dọn phòng ngủ",
+    "time": 10,
+    "numberOfQuestions": 5,
+    "link": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/quizz_0.json"
+  },
+  {
+    "id": "15",
     "type": "LESSON",
     "title": "Dọn phòng khách",
     "time": 4,
     "link": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/lesson_6.json"
   },
   {
-    "id": "9",
+    "id": "16",
+    "type": "QUIZZ",
+    "title": "Bài kiểm tra dọn phòng khách",
+    "time": 10,
+    "numberOfQuestions": 5,
+    "link": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/quizz_0.json"
+  },
+  {
+    "id": "17",
     "type": "LESSON",
     "title": "Dọn nhà vệ sinh",
     "time": 4,
     "link": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/lesson_6.json"
   },
   {
-    "block": "BÀI KIỂM TRA KỸ NĂNG XỬ LÝ TÌNH HUỐNG"
-  },
-  {
-    "id": "0",
+    "id": "18",
     "type": "QUIZZ",
-    "title": "Bài kiểm tra thái độ, tác phong, ứng xử",
+    "title": "Bài kiểm tra dọn nhà vệ sinh",
     "time": 10,
     "numberOfQuestions": 5,
     "link": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/quizz_0.json"
