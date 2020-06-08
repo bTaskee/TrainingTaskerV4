@@ -2,8 +2,8 @@
   "id": "2",
   "type": "LESSON",
   "title": "Định hướng nghề nghiệp.",
-  "nextLesson": "https://raw.githubusercontent.com/bTaskee/TrainingV3/master/chapter_1/lesson_2.json",
-  "previousLesson": "https://raw.githubusercontent.com/bTaskee/TrainingV3/master/chapter_1/lesson_0.json",
+  "nextLesson": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/lesson_2.json",
+  "previousLesson": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/lesson_0.json",
   "quizzLink": null,
   "content": [
                 {"h1": "GIÚP VIỆC NHÀ, MỘT NGHỀ NHƯ MỌI NGHỀ"},
