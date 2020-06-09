@@ -6,6 +6,7 @@
   "previousLesson": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/lesson_9.json",
   "quizzLink": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/lesson_11.json",
   "previousQuizz": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/quizz_5.json",
+  "quizzId": "5",
   "content" : [
     {"banner": "https://btaskee-stag.s3-ap-southeast-1.amazonaws.com/campaigns/teccCAEAhx8xQ3imQ"},
     {"h1": "Quy trình lau dọn phòng khách"},

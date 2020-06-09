@@ -124,17 +124,25 @@
   },
   {
     "id": "16",
+    "type": "QUIZZ",
+    "title": "Bài kiểm tra dọn nhà vệ sinh",
+    "time": 10,
+    "numberOfQuestions": 5,
+    "link": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/quizz_5.json"
+  },
+  {
+    "id": "17",
     "type": "LESSON",
     "title": "Dọn nhà vệ sinh",
     "time": 4,
     "link": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/lesson_11.json"
   },
   {
-    "id": "17",
+    "id": "18",
     "type": "QUIZZ",
     "title": "Bài kiểm tra dọn nhà vệ sinh",
     "time": 10,
     "numberOfQuestions": 5,
-    "link": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/quizz_5.json"
+    "link": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/quizz_6.json"
   }
 ]

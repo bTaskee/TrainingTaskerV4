@@ -4,9 +4,9 @@
   "title": "Dọn nhà vệ sinh",
   "nextLesson": null,
   "previousLesson": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/lesson_10.json",
-  "quizzLink": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/quizz_5.json",
-  "quizzId": "7",
-  "previousQuizz": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/quizz_4.json",
+  "quizzLink": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/quizz_6.json",
+  "quizzId": "6",
+  "previousQuizz": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/quizz_5.json",
   "content" : [
     {"banner": "https://btaskee-stag.s3-ap-southeast-1.amazonaws.com/campaigns/PPogELgycLpT23kMb"},
     {"h1": "06 BƯỚC THỰC HIỆN"},

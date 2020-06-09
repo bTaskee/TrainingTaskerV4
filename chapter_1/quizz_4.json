@@ -1,10 +1,10 @@
 {
-  "id": "5",
+  "id": "4",
   "type": "QUIZZ",
   "title": "Bài kiểm tra dọn phòng ngủ",
   "scoreRate": 80,
-  "nextLesson": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/lesson_10.json",
-  "previousLesson": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/lesson_9.json",
+  "nextLesson": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/lesson_9.json",
+  "previousLesson": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/lesson_8.json",
   "questions": [
     {
       "id": "0",
