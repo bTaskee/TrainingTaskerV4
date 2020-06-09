@@ -125,7 +125,7 @@
   {
     "id": "16",
     "type": "QUIZZ",
-    "title": "Bài kiểm tra dọn nhà vệ sinh",
+    "title": "Bài kiểm tra dọn phòng khách",
     "time": 10,
     "numberOfQuestions": 5,
     "link": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/quizz_5.json"
