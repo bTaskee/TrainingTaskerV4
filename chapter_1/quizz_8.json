@@ -252,7 +252,7 @@
       "type": "ONE_CHOICE",
       "question": "Trường hợp nào sau đây sẽ được liên hệ với khách hàng?",
       "rightAnswer": [
-        2
+        0
       ],
       "choices": [
         "Không tìm được địa chỉ khách hàng",
@@ -266,7 +266,7 @@
       "type": "ONE_CHOICE",
       "question": "Khi nhận việc rồi nhưng bận việc đột xuất không thể đến làm được thì phải làm sao?",
       "rightAnswer": [
-        2
+        1
       ],
       "choices": [
         "Gọi cho Khách và trình bày rõ về trường hợp đột xuất, nhờ khách hủy công việc giùm.",

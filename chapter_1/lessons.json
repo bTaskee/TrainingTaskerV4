@@ -43,14 +43,14 @@
   {
     "id": "5",
     "type": "LESSON",
-    "title": "Quy tắc vệ sinh nhà cửa",
+    "title": "Quy tắc vệ sinh nhà cửa chung",
     "time": 4,
     "link": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/lesson_5.json"
   },
   {
     "id": "0",
     "type": "QUIZZ",
-    "title": "Bài kiểm tra vệ sinh nhà cửa",
+    "title": "Bài kiểm tra quy trình dọn dẹp chung",
     "time": 10,
     "numberOfQuestions": 5,
     "link": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/quizz_0.json"

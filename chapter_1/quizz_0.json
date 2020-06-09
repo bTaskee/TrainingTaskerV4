@@ -1,7 +1,7 @@
 {
   "id": "0",
   "type": "QUIZZ",
-  "title": "Bài kiểm tra vệ sinh nhà cửa",
+  "title": "Bài kiểm tra quy trình dọn dẹp chung",
   "scoreRate": 80,
   "nextLesson": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/lesson_6.json",
   "previousLesson": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/lesson_5.json",
