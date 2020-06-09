@@ -5,7 +5,7 @@
   "nextLesson": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/lesson_9.json",
   "previousLesson": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/lesson_7.json",
   "quizzLink": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/quizz_3.json",
-  "quizzId": "4",
+  "quizzId": "3",
   "previousQuizz": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/quizz_2.json",
   "content" : [
     {"banner": "https://btaskee-stag.s3-ap-southeast-1.amazonaws.com/campaigns/SyRkuW4DXDeH5MxAd"},

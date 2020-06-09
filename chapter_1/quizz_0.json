@@ -3,8 +3,8 @@
   "type": "QUIZZ",
   "title": "Bài kiểm tra vệ sinh nhà cửa",
   "scoreRate": 80,
-  "nextLesson": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/lesson_5.json",
-  "previousLesson": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/lesson_1.json",
+  "nextLesson": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/lesson_6.json",
+  "previousLesson": "https://raw.githubusercontent.com/thosan948/TrainingTaskerV4/master/chapter_1/lesson_5.json",
   "questions": [
     {
       "id": "0",
